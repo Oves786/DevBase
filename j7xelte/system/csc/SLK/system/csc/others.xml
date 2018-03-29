@@ -1,0 +1,44 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeature>
+  <Version>ED00002</Version>
+  <Country>SRILANKA</Country>
+  <CountryISO>LK</CountryISO>
+  <SalesCode>SLK</SalesCode>
+  <FeatureSet>
+    <CscFeature_Camera_CameraFlicker>50hz</CscFeature_Camera_CameraFlicker>
+    <CscFeature_Common_ConfigBikeMode>bikemode|globalaction</CscFeature_Common_ConfigBikeMode>
+    <CscFeature_Common_ConfigDevBrandName>Galaxy J7 (2016)</CscFeature_Common_ConfigDevBrandName>
+    <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
+    <CscFeature_FMRadio_RecordingVolumeAs>11</CscFeature_FMRadio_RecordingVolumeAs>
+    <CscFeature_IMS_EnableIMS>TRUE</CscFeature_IMS_EnableIMS>
+    <CscFeature_IMS_EnableLTEVideoCall>TRUE</CscFeature_IMS_EnableLTEVideoCall>
+    <CscFeature_IMS_EnableRCSe>TRUE</CscFeature_IMS_EnableRCSe>
+    <CscFeature_IMS_EnableVoLTE>TRUE</CscFeature_IMS_EnableVoLTE>
+    <CscFeature_IMS_FrameworkVersion>6.0</CscFeature_IMS_FrameworkVersion>
+    <CscFeature_Message_ConfigFreeMessage>off</CscFeature_Message_ConfigFreeMessage>
+    <CscFeature_Message_ConfigImeiTracker>+94115882467</CscFeature_Message_ConfigImeiTracker>
+    <CscFeature_RIL_BlockUssdDuringVolteCall>TRUE</CscFeature_RIL_BlockUssdDuringVolteCall>
+    <CscFeature_RIL_ConfigAlwaysOnApn>ims</CscFeature_RIL_ConfigAlwaysOnApn>
+    <CscFeature_RIL_ConfigSpecialPdpFlag>im_cn</CscFeature_RIL_ConfigSpecialPdpFlag>
+    <CscFeature_RIL_ConfigVolteRedialPolicy>default</CscFeature_RIL_ConfigVolteRedialPolicy>
+    <CscFeature_RIL_E911RoutingPolicy>fullsrchmdm</CscFeature_RIL_E911RoutingPolicy>
+    <CscFeature_RIL_SrvccRel>10</CscFeature_RIL_SrvccRel>
+    <CscFeature_RIL_SupportImsService>TRUE</CscFeature_RIL_SupportImsService>
+    <CscFeature_RIL_SupportSrvcc>TRUE</CscFeature_RIL_SupportSrvcc>
+    <CscFeature_RIL_SupportVolte>TRUE</CscFeature_RIL_SupportVolte>
+    <CscFeature_RIL_SupportVolteVtCall>TRUE</CscFeature_RIL_SupportVolteVtCall>
+    <CscFeature_RIL_UseMpsForImsSetting>TRUE</CscFeature_RIL_UseMpsForImsSetting>
+    <CscFeature_Setting_HideApnList>ims,IMS</CscFeature_Setting_HideApnList>
+    <CscFeature_Setting_IncludeApn4SwUpdate>TRUE</CscFeature_Setting_IncludeApn4SwUpdate>
+    <CscFeature_Setting_ReplaceLabel4DualSim>Smart dual SIM</CscFeature_Setting_ReplaceLabel4DualSim>
+    <CscFeature_SmartManager_ConfigDashboard>dual_dashboard</CscFeature_SmartManager_ConfigDashboard>
+    <CscFeature_SmartManager_ConfigSubFeatures>UDS2|DISABLEAUTORESTART</CscFeature_SmartManager_ConfigSubFeatures>
+    <CscFeature_SmartManager_ConfigUdsSubFeatures>videocompression</CscFeature_SmartManager_ConfigUdsSubFeatures>
+    <CscFeature_VT_ConfigCapability>three_widget</CscFeature_VT_ConfigCapability>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>SLK_HD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>voltesettingscommon,voltesettingEUR</CscFeature_VoiceCall_ConfigOpStyleForMobileNetSetting>
+    <CscFeature_VoiceCall_ConfigOpStyleForVolte>SLK_VOLTE</CscFeature_VoiceCall_ConfigOpStyleForVolte>
+    <CscFeature_VoiceCall_TunnigCallWaitingToneAs>80</CscFeature_VoiceCall_TunnigCallWaitingToneAs>
+    <CscFeature_Web_SetHomepageURL>http://www.google.lk/</CscFeature_Web_SetHomepageURL>
+  </FeatureSet>
+</SamsungMobileFeature>

@@ -1,0 +1,15 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-J710F</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>J710FODD</CSCName>
+	<CSCVersion>4BRA1</CSCVersion>
+	<NbCustomer>4</NbCustomer>
+	<CustomerData src="/Customer/INS/customer.xml" />
+	<CustomerData src="/Customer/NPL/customer.xml" />
+	<CustomerData src="/Customer/SLK/customer.xml" />
+	<CustomerData src="/Customer/BNG/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>

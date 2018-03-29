@@ -1,0 +1,4 @@
+3
+SamsungMembers.apk
+SamsungPayStubMini.apk
+RcsSettings.apk
